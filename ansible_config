@@ -1,0 +1,7 @@
+[defaults]
+inventory = inventory.ini
+remote_user = ubuntu
+private_key_file = C:\Users\Owner\Downloads\cba_keypair10.pem
+host_key_checking = False
+retry_files_enabled = False
+command_warnings = True
